@@ -1,1 +1,60 @@
+# Tableau Public – Geographical Analysis
 
+## Project Overview
+
+This project focuses on performing geographical analysis using **Tableau Public** and the Superstore dataset. Interactive maps and visualizations are used to analyze sales and profit distribution across different states, cities, and regions in the United States.
+
+The objective is to identify geographical patterns, compare regional performance, and generate meaningful business insights.
+
+## Dataset
+
+- **Dataset:** Superstore
+- **Tool:** Tableau Public
+- **Data Type:** Sales, Profit, City, State, Region, Category
+- **Geographical Coverage:** United States
+
+## Visualizations Created
+
+The project includes the following four visualizations:
+
+1. **Sales by State** – A filled geographical map showing sales distribution across different states.
+2. **Profit by State** – A filled map representing state-wise profit performance.
+3. **Sales by Region** – A bar chart comparing sales across different regions.
+4. **City-wise Performance** – A geographical symbol map showing city-wise sales and profit variations.
+
+## Interactive Features
+
+- **Region Filter:** Allows users to explore data by different geographical regions.
+- **Category Filter:** Allows users to analyze sales and profit across product categories.
+- **Interactive Maps:** Users can select geographical locations to explore detailed information.
+- **Interactive Dashboard:** Combines all four visualizations into one dashboard for easier analysis.
+
+## Key Findings
+
+1. Sales performance varies significantly across different states and regions.
+2. Certain states generate higher sales compared to other states.
+3. Profitability differs across cities, indicating variations in business performance.
+
+## Suggestions and Recommendations
+
+1. Improve marketing strategies and product availability in low-performing geographical regions.
+2. Analyze discounts, shipping costs, and product expenses in low-profit locations to improve profitability.
+
+## Conclusion
+
+Geographical analysis using Tableau Public provides valuable insights into regional sales and profit performance. Interactive maps and filters make it easier to identify high-performing and low-performing locations. These insights can help businesses improve marketing strategies, inventory management, and decision-making.
+
+## Project Links
+
+(https://public.tableau.com/views/Task-14_17938612633980/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Tools Used
+
+- Tableau Public
+- Microsoft Excel / CSV
+- Superstore Dataset
+
+---
+
+**Project Type:** Data Visualization and Geographical Analysis  
+**Platform:** Tableau Public
